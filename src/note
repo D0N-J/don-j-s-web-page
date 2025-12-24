@@ -1,0 +1,9 @@
+
+
+
+open terminal
+review the changes using git status
+git add "file name/" 
+commit the changes by typing git commit -m "commit message"
+verify that the changes ware made successfully using the git log
+then push your changes to github repository by typing git push 
